@@ -1,0 +1,419 @@
+[
+  {
+    "title": "The Batman",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "year": "2022",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+ 
+  {
+    "title": "Top Gun: Maverick",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "year": "2022",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "The Queen's Gambit",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+    "year": "2020",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "year": "2021",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+  {
+    "title": "Squid Game",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "year": "2021",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Avengers: Endgame",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "year": "2019",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Umbrella Academy",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+    "year": "2019",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "Tenet",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/k68nPLbIST6NP96JmTxmZijEvCA.jpg",
+    "year": "2020",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+
+  {
+    "title": "Black Mirror",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/5UaYsGZOFhjFDwQh6GuLjjA1WlF.jpg",
+    "year": "2011",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "The Walking Dead",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/reKs8y4mPwPkZG99ZpbKRhBPKsX.jpg",
+    "year": "2010",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "1917",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "year": "2019",
+    "category": "Movie",
+    "rating": "R",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Ford v Ferrari",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6ApDtO7xaWAfPqfi2IARXIzj8QS.jpg",
+    "year": "2019",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Dark",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+    "year": "2017",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "La La Land",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "year": "2016",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "The Handmaid's Tale",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oIkxqt6ug5zT5ZSUUyc1Iqopf02.jpg",
+    "year": "2017",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Interstellar",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "year": "2014",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "The Matrix",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "year": "1999",
+    "category": "Movie",
+    "rating": "R",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "The Dark Knight",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "year": "2008",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Breaking Bad",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+    "year": "2008",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Stranger Things",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+    "year": "2016",
+    "category": "TV Series",
+    "rating": "TV-14",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "The Avengers",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "year": "2012",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Game of Thrones",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "year": "2011",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+
+  {
+    "title": "WandaVision",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+    "year": "2021",
+    "category": "TV Series",
+    "rating": "TV-PG",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Loki",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+    "year": "2021",
+    "category": "TV Series",
+    "rating": "TV-14",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Doctor Strange",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "year": "2016",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "Iron Man",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "year": "2008",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+
+  {
+    "title": "Oppenheimer",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+    "year": "2023",
+    "category": "Movie",
+    "rating": "R",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Peaky Blinders",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "year": "2013",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "John Wick",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "year": "2014",
+    "category": "Movie",
+    "rating": "R",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "Dune",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "year": "2021",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+
+  {
+    "title": "The Witcher",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+    "year": "2019",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "Chernobyl",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "year": "2019",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Boys",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+    "year": "2019",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Joker",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "year": "2019",
+    "category": "Movie",
+    "rating": "R",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Punisher",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/zsaiq8ZclPuneuN7loLEbsh1ANJ.jpg",
+    "year": "2017",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "Narcos",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+    "year": "2015",
+    "category": "TV Series",
+    "rating": "TV-MA",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Mandalorian",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+    "year": "2019",
+    "category": "TV Series",
+    "rating": "TV-14",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+  {
+    "title": "Venom",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "year": "2018",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Falcon and the Winter Soldier",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+    "year": "2021",
+    "category": "TV Series",
+    "rating": "TV-14",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "Black Panther",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "year": "2018",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+
+  {
+    "title": "Eternals",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/b6qUu00iIIkXX13szFy7d0CyNcg.jpg",
+    "year": "2021",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+    "year": "2021",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": true,
+    "isBookmarked": false
+  },
+
+  {
+    "title": "Moon Knight",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
+    "year": "2022",
+    "category": "TV Series",
+    "rating": "TV-14",
+    "isTrending": true,
+    "isBookmarked": true
+  },
+  {
+    "title": "The Flash (Movie)",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "year": "2023",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": false
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "year": "2017",
+    "category": "Movie",
+    "rating": "PG-13",
+    "isTrending": false,
+    "isBookmarked": true
+  }
+]
