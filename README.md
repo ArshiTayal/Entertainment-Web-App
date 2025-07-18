@@ -2,7 +2,7 @@
 A fully responsive and interactive Entertainment Web Application that displays movies and TV series from a JSON dataset. The app includes features like live search, bookmarking, filtering by category (Movies, TV Series), and localStorage support for data persistence.
 
 **📸 Preview**
-[Live Demo]()
+[Live Demo]( https://arshitayal.github.io/Entertainment-Web-App/)
 
 ## 🌟 Features
 🔍 **Live Search:** Instantly filter content by movie/series title as you type.
